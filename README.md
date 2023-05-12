@@ -1,1 +1,3 @@
 # assignment-submission-3
+
+It's about Django Blog Assignment. I'm feeling ashamed for late submission. It's a great assignment which has so moany things to learn but I'm sorry to say that all of your requirements are not satisfied; and it's my limitation. At the end, Alhamdulillah and also thank you so much Mr Abdul Aouwal Vai for giving us the opportunity to submit the assignment and it was really a roller-coaster journey.
